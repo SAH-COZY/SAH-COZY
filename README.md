@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
-<!--
-**SAH-COZY/SAH-COZY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+🎓 I am SAHCOZY, a **LUA FiveM Developer**. I currently work for RubiCode who purpose scripts, maps and lot of other content for FiveM servers and developpers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 I contribute to some Open Source Projects when I can.
+
+## 🛠️ Skills
+
+### Languages
+![lua]https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white
+![javascript]https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+![jquery]https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
+![python]https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+
+### Database
+![mysql]https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
+![mariadb]https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white
+![mongodb]https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
+
+### Tools
+![git]https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
+![vscode]https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
+![hyper]https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white
