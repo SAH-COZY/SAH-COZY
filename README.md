@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am SAHCOZY, a **LUA FiveM Developer**. I currently work for RubiCode who purpose scripts, maps and lot of other content for FiveM servers and developpers.
+🎓 I am SAHCOZY, a **LUA FiveM Developer**. I'm currently work on personal project named [Tryade Roleplay](https://discord.gg/xMR3wF338x).
 
 👨‍💻 I contribute to some Open Source Projects when I can.
 
