@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am SAHCOZY, a **LUA FiveM Developer**. I'm currently work on personal project named [Tryade Roleplay](https://discord.gg/xMR3wF338x).
+🎓 I am SAHCOZY, a **LUA FiveM Developer**. I'm currently working on personal project
 
 👨‍💻 I contribute to some Open Source Projects when I can.
 
